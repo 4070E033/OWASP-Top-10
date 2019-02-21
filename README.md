@@ -12,7 +12,15 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project
 
 漏洞說明：SQL Injection主要是針對資料庫，利用(未限制)過濾特殊字串，攻擊者注入惡意SQL碼經由網頁傳送至後端資料庫執行
 
-測試工具：SQL Injection (SQL MAP)
+測試工具：SQL Injection (SQL MAP)Dㄋ
+
+測試案例：
+
+# LDAP Injection 
+
+漏洞說明：
+
+測試工具：
 
 測試案例：
 
