@@ -16,7 +16,7 @@ https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project
 
 測試案例：
 
-# LDAP Injection 
+# LDAP Injection LDAP
 
 漏洞說明： 類似於SQL Injection，差別在於攻擊對象不同，SQL Injection的對象是資料庫，LDAP Injection 為LDAP系
 
