@@ -8,11 +8,11 @@
 
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project
 
-A1:2017-Injection (SQL<----SQLMAP 、
+A1:2017-Injection (SQL Injection 、 LDAP Injection 、 XML)
 
 漏洞說明：
 
-測試工具：
+測試工具：SQL Injection (SQL MAP)
 
 測試案例：
 
