@@ -2,11 +2,19 @@
 
 # OWASP(非營利)組織
 
+漏洞說明 、測試工具、測試案例
+
 參考網址 https://www.ithome.com.tw/news/118411
 
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project
 
-A1:2017-Injection
+A1:2017-Injection (SQL<----SQLMAP 、
+
+漏洞說明：
+
+測試工具：
+
+測試案例：
 
 A2:2017-Broken Authentication
 
